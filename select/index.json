@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "マトリョーシカ",
+  "base_artist": "あいみょん",
+  "createdAt": "2026-02-23T06:00:48.233131Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マトリョーシカ",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/01_マトリョーシカ_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マトリョーシカ",
+      "artist": "アカシモモカ",
+      "has_synced": true,
+      "path": "select/02_マトリョーシカ_アカシモモカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マトリョーシカ",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/03_マトリョーシカ_あいみょん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マトリョーシカ",
+      "artist": "Suiyoubi no Campanella & Moodoïd",
+      "has_synced": false,
+      "path": "select/04_マトリョーシカ_Suiyoubi_no_Campanella_&_Moodoïd.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マトリョーシカ",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/05_マトリョーシカ_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マトリョーシカ feat. Moodoïd",
+      "artist": "Wednesday Campanella",
+      "has_synced": false,
+      "path": "select/06_マトリョーシカ_feat._Moodoïd_Wednesday_Campanella.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マトリョーシカ",
+      "artist": "Wednesday Campanella",
+      "has_synced": false,
+      "path": "select/07_マトリョーシカ_Wednesday_Campanella.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "マトリョーシカ",
+      "artist": "Wednesday Campanella & Moodoïd",
+      "has_synced": false,
+      "path": "select/08_マトリョーシカ_Wednesday_Campanella_&_Moodoïd.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "マトリョーシカ - Matryoshka",
+      "artist": "aimyon",
+      "has_synced": false,
+      "path": "select/09_マトリョーシカ_-_Matryoshka_aimyon.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "マトリョーシカ",
+      "artist": "NICO Touches the Walls",
+      "has_synced": false,
+      "path": "select/10_マトリョーシカ_NICO_Touches_the_Walls.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "マトリョーシカ (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/11_マトリョーシカ_(Live_in_阪神甲子園球場,_2022.11.05)_あいみょん.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "マトリョーシカ (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/12_マトリョーシカ_(Live_in_阪神甲子園球場,_2022.11.05)_Aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マトリョーシカ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_マトリョーシカ_あいみょん.txt"
+    }
+  ]
+}
